@@ -1,0 +1,16 @@
+n1= float(input("Enter your number: "))
+n2= float(input("Enter your number: "))
+
+# print(n1+n2)
+# print(n1-n2)
+# print(n1*n2)
+# print(n1/n2)
+# print(n1//n2)
+# print(n1%n2)
+
+print(n1>n2)
+print(n1<n2)
+print(n1>=n2)
+print(n1<=n2)
+print(n1==n2)
+print(n1!=n2)
